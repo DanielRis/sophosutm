@@ -3,11 +3,12 @@ package sophosutm
 import (
 	"bytes"
 	"fmt"
-	"github/DanielRis/go-cleanhttp"
 	"io"
 	"log"
 	"net/http"
 	"net/url"
+
+	cleanhttp "github.com/DanielRis/go-cleanhttp"
 )
 
 type Client struct {

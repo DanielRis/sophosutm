@@ -1,7 +1,7 @@
 package sophosutm_test
 
 import (
-	"github/DanielRis/sophosutm"
+	"github.com/DanielRis/sophosutm"
 	"testing"
 )
 

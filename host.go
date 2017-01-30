@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+
 type Host struct {
 	Locked     string   `json:"_locked"`
 	Ref        string   `json:"_ref"`
